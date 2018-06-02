@@ -1,0 +1,58 @@
+
+* {
+    box-sizing: border-box;
+    font-family: 'Quicksand', sans-serif;
+    overflow:hidden;
+  }
+  
+.tuloslista-container {
+
+
+    width: 100%;
+    background-color: #ED6A5A;
+    height: 100vh;
+    overflow: hidden;
+     /*
+    position: absolute;
+    right: 0;
+    top: 0;*/
+    border: 1px solid white;
+    visibility: visible;
+    opacity: 1;
+    float: right;
+    
+}
+
+.tuloslista-tulos { 
+    color: #5D576B;
+    font-size: 110%;
+}
+.tuloslista {
+
+    margin-left: 5%;
+    margin-top: 5%;
+    width: 80%;
+    border-collapse: collapse;
+
+
+}
+.tuloslista td { 
+    text-align: center;
+     color: white;
+    border: 0.3px solid white;
+    font-size: 90%;
+    overflow: hidden;
+}
+.tuloslista td:hover { 
+    font-size: 120%;
+   
+
+}
+
+
+.tuloslista th { 
+    border: 0.3px solid white;
+    background-color:  #9BC1BC;
+    color: white;
+}
+

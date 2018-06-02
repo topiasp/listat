@@ -1,0 +1,10 @@
+ 
+
+cd Documents
+cd Adhoc
+cd heroku_apps
+cd annastiinanlistat
+npm start
+
+
+

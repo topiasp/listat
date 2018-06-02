@@ -1,0 +1,26 @@
+
+/* ----------------------- layout --------- */
+.container {
+
+  width: 100%;
+  height: 99vh;
+  overflow:hidden;
+}
+
+.container-top {
+
+  height: 100vh;
+  float: left;
+  width: 45%;
+  overflow: hidden;
+
+}
+
+.container-bottom {
+
+  height: 100vh;
+  float: right;
+  width: 55%;
+  overflow: hidden;
+  
+}
