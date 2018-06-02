@@ -1,7 +1,7 @@
 {
   "name": "listat",
   "version": "0.1.0",
-  "homepage": "http://topiasp.github.io/projects/listat",
+  "homepage": "http://topiasp.github.io/listat",
   "private": true,
   "dependencies": {
     "react": "^16.4.0",
